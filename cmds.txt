@@ -1,0 +1,1 @@
+RUN apt-get install ffmpeg libsm6 libxext6 ghostscript python3-tk  -y
