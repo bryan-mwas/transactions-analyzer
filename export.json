@@ -1,0 +1,5514 @@
+[
+  {
+    "category": "Charge",
+    "completion_time": "2023-06-02 17:33:14",
+    "amount": 65.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RF292BZR4P"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-06-02 14:08:06",
+    "amount": 102.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RF251PSUIN"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-20 17:34:30",
+    "amount": 4.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "REK415A3GO"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-20 17:03:53",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "WITHDRAWAL AT ATM",
+    "receipt_id": "REK311RPFJ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-10 18:04:21",
+    "amount": 19.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "REA088VL8E"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-07 08:46:12",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RE79X504YN"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-06 14:03:43",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RE63V1X549"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-06 13:58:01",
+    "amount": 33.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RE65V1BIDL"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-06 13:56:28",
+    "amount": 33.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RE61V15G21"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-06 13:54:37",
+    "amount": 33.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RE61V0Y6KP"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-05 20:07:16",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RE51TBUCC7"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-03 16:10:53",
+    "amount": 102.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RE33MKNLRF"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-02 19:22:38",
+    "amount": 105.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RE27KFUR4L"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-05-02 09:02:09",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "RE26IMMFRW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-29 12:11:55",
+    "amount": 51.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "RDT6B4DW9W"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-28 16:01:00",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "RDS88XJ58U"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-22 13:55:16",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RDM8ROFFEI"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-15 11:49:20",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RDF481W8XW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-04 14:23:00",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RD45DEA4OP"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-01 11:44:32",
+    "amount": 105.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RD194RCMEZ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-04-01 11:42:48",
+    "amount": 102.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RD134R6ABZ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-28 09:43:10",
+    "amount": 55.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCS0SJ5F1M"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-25 09:30:58",
+    "amount": 75.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCP7KVVVQX"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-21 14:46:11",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCL0B5LK3K"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-20 12:24:43",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCK588MXK9"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-19 20:40:11",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RCJ673P8C6"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-18 18:15:23",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCI6400UES"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-17 15:06:30",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RCH1ZN4UFT"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-15 17:58:28",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCF1UO90IF"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-15 14:52:48",
+    "amount": 105.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RCF0U5CM4M"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-14 18:13:16",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCE5S0XDWJ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-13 22:52:19",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RCD1Q839TB"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-12 14:38:33",
+    "amount": 28.0,
+    "recipient_id": "n/a",
+    "recipient_name": "WITHDRAWAL",
+    "receipt_id": "RCC3M87GGT"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-09 20:05:17",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RC94F3IJ0Y"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-05 12:53:43",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RC522T7HPC"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-03 15:00:49",
+    "amount": 4.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RC37WKUE65"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-03-02 19:22:09",
+    "amount": 97.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RC27UKYF03"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-20 17:41:25",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RBK43XNV04"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-16 13:29:47",
+    "amount": 14.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RBG9S2DVMN"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-15 18:53:56",
+    "amount": 105.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RBF8QAH0MI"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-14 21:37:51",
+    "amount": 4.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RBE2O9210G"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-11 08:44:17",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RBB5EETT5T"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-09 17:27:06",
+    "amount": 55.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RB90AEB8B6"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-06 09:19:03",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RB6316JBPV"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-02-05 16:31:54",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RB58YNC1ZS"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-28 17:49:05",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "WITHDRAWAL AT ATM",
+    "receipt_id": "RAS0E3GRO6"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-28 15:09:51",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAS0DO9X5Q"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-26 14:34:17",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAQ18HWFDB"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-24 14:38:53",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAO63FM9IY"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-23 14:40:48",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RAN3ZVCG3B"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-21 13:57:56",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAL5UU25W1"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-20 17:55:57",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAK2SVMDY4"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-17 19:54:17",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAH0LOEDGM"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-17 16:01:14",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAH4KYV7KC"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-17 14:39:02",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAH7KRR3VT"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-15 15:12:07",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAF1FZ3VZ7"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-14 15:51:38",
+    "amount": 14.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RAE2DPI34Y"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-12 14:31:22",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAC88IVMXQ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-11 21:27:25",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RAB279KDC6"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-10 23:11:15",
+    "amount": 9.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RAA34Y4XF3"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-09 16:00:42",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RA961DZRXM"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-09 13:46:48",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RA91123M35"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-06 07:48:40",
+    "amount": 97.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RA63RZ2QYJ"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-05 14:37:03",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "WITHDRAWAL AT ATM",
+    "receipt_id": "RA57QF1RCB"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-04 16:00:46",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "RA40O6EYAW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2023-01-04 15:24:53",
+    "amount": 33.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "RA47O37CBF"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-31 14:37:52",
+    "amount": 75.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLV0EED10S"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-26 19:12:11",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLQ43DZG52"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-26 19:07:05",
+    "amount": 56.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QLQ43DF20Q"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-24 11:31:47",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLO2W6YADW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-24 10:28:02",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLO1W0HYAX"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-22 12:41:24",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLM1QQ5KMH"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-20 11:34:52",
+    "amount": 0.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLK7L67OGD"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-18 23:31:05",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLI7HTJCMD"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-12 08:59:10",
+    "amount": 10.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY MERCHANT",
+    "receipt_id": "QLC3YN6O29"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-11 16:03:25",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QLB5X5OIX7"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-10 16:02:11",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QLA9UJT14L"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-09 18:23:12",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QL92S6CO8Y"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-09 18:22:35",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QL98S69CVW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-07 07:30:25",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QL71KI3SJD"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-12-04 14:46:00",
+    "amount": 97.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QL45CD873H"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-11-26 18:11:27",
+    "amount": 23.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QKQ7PV36RP"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-11-21 19:31:31",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QKL5EBCJ6N"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-10-07 15:38:13",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QJ77FIMNSV"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-10-07 08:50:35",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "QJ73ELYE4V"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-10-06 14:33:56",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "QJ65CZ3RZ3"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-10-06 12:08:17",
+    "amount": 97.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS COMPLETED",
+    "receipt_id": "QJ62CN6DB2"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-25 23:24:53",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIP0NWH92W"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-25 18:12:38",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIP0N9PZO4"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-25 12:32:47",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIP7MJTZTN"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-23 13:23:25",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIN1I9EX5H"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-23 06:19:01",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIN9HITNGV"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-21 13:29:18",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIL4DYQVZU"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-21 13:13:41",
+    "amount": 6.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIL6DXIL0Q"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-09-17 12:11:09",
+    "amount": 97.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QIH05E8PQC"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-27 08:31:29",
+    "amount": 85.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QHR6V31O7K"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-27 07:38:32",
+    "amount": 56.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QHR8V0LTK2"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-27 07:36:50",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QHR0V0JJ4C"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-25 15:51:17",
+    "amount": 85.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QHP1RWO3I7"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-15 17:00:08",
+    "amount": 34.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QHF19A3Y8H"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-06 15:10:03",
+    "amount": 28.0,
+    "recipient_id": "n/a",
+    "recipient_name": "WITHDRAWAL",
+    "receipt_id": "QH62RO6Q9U"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-06 14:39:01",
+    "amount": 87.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QH66RLU66G"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-08-06 12:07:52",
+    "amount": 75.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QH64RA32FM"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-07-30 12:33:20",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QGU9CI0US1"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-07-26 13:35:00",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QGQ64HRQFW"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-07-14 13:59:17",
+    "amount": 22.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QGE2G7A306"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-06-13 12:01:24",
+    "amount": 32.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QFD5NH16GR"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-06-09 19:10:09",
+    "amount": 12.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CUSTOMER TRANSFER OF FUNDS",
+    "receipt_id": "QF96GICMSA"
+  },
+  {
+    "category": "Charge",
+    "completion_time": "2022-06-09 08:43:54",
+    "amount": 23.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAY BILL",
+    "receipt_id": "QF94F7RBZE"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-06-04 02:10:18",
+    "amount": 2927.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "RF416L092N"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-06-02 17:33:14",
+    "amount": 25000.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RF292BZR4P"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-30 13:38:53",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0383150383322458 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "REU9RYBSF9"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-29 14:47:44",
+    "amount": 724.5,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0463149424633791 NETFLIX.COM 4087249160 NL",
+    "receipt_id": "RET4PCJERC"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-20 17:34:30",
+    "amount": 438.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "REK415A3GO"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-10 18:04:21",
+    "amount": 2500.0,
+    "recipient_id": "600100",
+    "recipient_name": "STANBIC BANK ACC. 0100003492766",
+    "receipt_id": "REA088VL8E"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-07 08:46:12",
+    "amount": 809.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RE79X504YN"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-06 13:58:01",
+    "amount": 5000.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RE65V1BIDL"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-06 13:56:28",
+    "amount": 3909.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. SHARES CAPITAL",
+    "receipt_id": "RE61V15G21"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-06 13:54:37",
+    "amount": 3909.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. DEPOSIT CONTRIBUTION",
+    "receipt_id": "RE61V0Y6KP"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-02 19:22:38",
+    "amount": 50000.0,
+    "recipient_id": "614068",
+    "recipient_name": "COMPLETED UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RE27KFUR4L"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-05-02 18:54:22",
+    "amount": 500.0,
+    "recipient_id": "522522",
+    "recipient_name": "KCB COMPLETED PAYBILL AC ACC. 5586657",
+    "receipt_id": "RE25KBHXI1"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-28 21:59:30",
+    "amount": 724.5,
+    "recipient_id": "903470",
+    "recipient_name": "COMPLETED M-PESA GLOBALPAY ACC. 0463118683677241 NETFLIX.COM LOS GATOS NL",
+    "receipt_id": "RDS1A4OMI3"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-17 21:02:11",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0383107649304447 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RDH4F33NTQ"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-10 20:33:43",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0383100632219678 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RDA1V3I1V7"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-06 18:17:58",
+    "amount": 1000.0,
+    "recipient_id": "522522",
+    "recipient_name": "KCB PAYBILL AC ACC. 7517619",
+    "receipt_id": "RD65JV4U0V"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-04 19:09:36",
+    "amount": 2999.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "RD47EAXIRZ"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-04 14:23:00",
+    "amount": 809.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RD45DEA4OP"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-01 11:44:32",
+    "amount": 50000.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RD194RCMEZ"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-04-01 01:01:59",
+    "amount": 100.0,
+    "recipient_id": "7141225",
+    "recipient_name": "PARK N GO ACC. WESTLAND-SP",
+    "receipt_id": "RD163YEOQK"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-19 20:40:11",
+    "amount": 689.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RCJ673P8C6"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-18 21:35:54",
+    "amount": 724.5,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0303077669521168 NETFLIX.COM 4087249160 NL",
+    "receipt_id": "RCI04QA9OW"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-18 14:36:29",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0303077417885934 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RCI23CISSI"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-17 15:06:30",
+    "amount": 834.0,
+    "recipient_id": "510800",
+    "recipient_name": "IPAY LTD ACC. 162",
+    "receipt_id": "RCH1ZN4UFT"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-15 14:52:48",
+    "amount": 50000.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RCF0U5CM4M"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-10 08:41:15",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0383069204731671 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RCA7FWUY47"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-03 23:25:24",
+    "amount": 2999.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "RC39Y35DVN"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-03-03 15:00:49",
+    "amount": 400.0,
+    "recipient_id": "4047579",
+    "recipient_name": "WESTGATE SHOPPING MALL ACC. RESTAURANT",
+    "receipt_id": "RC37WKUE65"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-20 17:41:25",
+    "amount": 716.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RBK43XNV04"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-19 10:30:47",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0303050270457835 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RBJ2ZGBMNK"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-19 10:30:44",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0463050270380621 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RBJ1ZGB8C9"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-16 13:29:47",
+    "amount": 1050.0,
+    "recipient_id": "7107481",
+    "recipient_name": "MULTICHOICE KENYA LIMITED ACC. SHOWMAX",
+    "receipt_id": "RBG9S2DVMN"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-15 18:53:56",
+    "amount": 50000.0,
+    "recipient_id": "614068",
+    "recipient_name": "UMOJA WENDANI SACCO LIMITED ACC. LN11804",
+    "receipt_id": "RBF8QAH0MI"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-14 21:37:51",
+    "amount": 500.0,
+    "recipient_id": "927633",
+    "recipient_name": "DIRECT PAY HQ ACC. R44583695MBT41001388",
+    "receipt_id": "RBE2O9210G"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-11 17:11:23",
+    "amount": 165.6,
+    "recipient_id": "903470",
+    "recipient_name": "M-PESA GLOBALPAY ACC. 0583042510822387 GOOGLE *BADOO G.CO/HELPPAY#US",
+    "receipt_id": "RBB5FPCWVF"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-09 17:27:06",
+    "amount": 12500.0,
+    "recipient_id": "880100",
+    "recipient_name": "NCBA BANK KENYA PLC. ACC. 8414540029",
+    "receipt_id": "RB90AEB8B6"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-02-04 07:16:37",
+    "amount": 2999.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "RB40UNJQP2"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-27 18:29:22",
+    "amount": 550.0,
+    "recipient_id": "522522",
+    "recipient_name": "KCB PAYBILL AC ACC. ECITIZEN- PKNEQCH",
+    "receipt_id": "RAR7BMY8QL"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-23 14:40:48",
+    "amount": 982.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RAN3ZVCG3B"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-18 16:10:41",
+    "amount": 60.0,
+    "recipient_id": "804200",
+    "recipient_name": "EVOPAY LTD ACC. 33816404;161371",
+    "receipt_id": "RAI6NHKFGU"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-14 15:51:38",
+    "amount": 1050.0,
+    "recipient_id": "7107481",
+    "recipient_name": "MULTICHOICE KENYA LIMITED ACC. SHOWMAX",
+    "receipt_id": "RAE2DPI34Y"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-14 14:27:37",
+    "amount": 100.0,
+    "recipient_id": "244441",
+    "recipient_name": "SAFARICOM POSTPAID BUNDLES ACC. 254",
+    "receipt_id": "RAE2DHLQKU"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-10 23:11:15",
+    "amount": 652.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "RAA34Y4XF3"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-09 13:04:27",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "RA93ZY6BY3"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-06 09:20:44",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "RA64S5IXVO"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-04 17:19:26",
+    "amount": 2999.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "RA41ODWZ6V"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-04 15:24:53",
+    "amount": 5000.0,
+    "recipient_id": "247247",
+    "recipient_name": "EQUITY PAYBILL ACCOUNT ACC. 656867",
+    "receipt_id": "RA47O37CBF"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2023-01-01 19:09:22",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "RA12HRR79A"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-31 10:32:34",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLV3DRM191"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-28 10:47:50",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLS96JQKLH"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-27 22:42:57",
+    "amount": 75.0,
+    "recipient_id": "826915",
+    "recipient_name": "SAFARICOM OFFERS ACC. TUNUKIWA",
+    "receipt_id": "QLR55ZVNQZ"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-26 19:07:05",
+    "amount": 4500.0,
+    "recipient_id": "4040151",
+    "recipient_name": "MPAPS INTERNET SOLUTION ACC. 0720342645",
+    "receipt_id": "QLQ43DF20Q"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-25 17:16:22",
+    "amount": 75.0,
+    "recipient_id": "826915",
+    "recipient_name": "SAFARICOM OFFERS ACC. TUNUKIWA",
+    "receipt_id": "QLP9ZXBYAV"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-24 23:48:25",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLO4YD255U"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-18 23:30:28",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLI6HTIZ8E"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-13 11:28:35",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLD52KJSYH"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-11 16:03:25",
+    "amount": 1000.0,
+    "recipient_id": "ACC.",
+    "recipient_name": "2547******644 M30",
+    "receipt_id": "QLB5X5OIX7"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-11 16:00:56",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QLB2X5GSHI"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-07 07:30:25",
+    "amount": 1222.0,
+    "recipient_id": "888888",
+    "recipient_name": "KPLC ACC. 35761168",
+    "receipt_id": "QL71KI3SJD"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-05 19:27:12",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QL59GKX983"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-12-04 07:33:48",
+    "amount": 300.0,
+    "recipient_id": "150501",
+    "recipient_name": "SAFARICOMHOME ACC. 11375480",
+    "receipt_id": "QL40B7IJV4"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-11-29 14:52:56",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QKT8W7YXKM"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-11-26 18:11:27",
+    "amount": 500.0,
+    "recipient_id": "7212911",
+    "recipient_name": "JIJI ONLINE MARKETPLACE KENYA LIMITED ACC. 26418645",
+    "receipt_id": "QKQ7PV36RP"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-11-21 19:05:42",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QKL1E7UFAP"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-10-05 09:26:15",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QJ559X6YDZ"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-09-23 05:31:52",
+    "amount": 250.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QIN1HIC1A3"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-09-06 12:09:06",
+    "amount": 100.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QI61H1GH19"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-09-01 11:50:03",
+    "amount": 50.0,
+    "recipient_id": "ACC.",
+    "recipient_name": "2547******644 D1",
+    "receipt_id": "QI176H16CP"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-27 08:31:29",
+    "amount": 8100.0,
+    "recipient_id": "400222",
+    "recipient_name": "CO- OPERATIVE BANK COLLECTION ACCOUNT ACC. 1059#80677",
+    "receipt_id": "QHR6V31O7K"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-27 07:38:32",
+    "amount": 2990.0,
+    "recipient_id": "589036",
+    "recipient_name": "TINGG CELLULANT ACC. SPOTI",
+    "receipt_id": "QHR8V0LTK2"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-27 07:36:50",
+    "amount": 2000.0,
+    "recipient_id": "8046223",
+    "recipient_name": "TERESIA NJERI MEDICAL FUND 2 ACC. TERESIA NJERI",
+    "receipt_id": "QHR0V0JJ4C"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-25 15:51:17",
+    "amount": 9500.0,
+    "recipient_id": "400222",
+    "recipient_name": "CO- OPERATIVE BANK COLLECTION ACCOUNT ACC. 1059#80677",
+    "receipt_id": "QHP1RWO3I7"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-15 17:00:08",
+    "amount": 2000.0,
+    "recipient_id": "8047129",
+    "recipient_name": "JOSEPH MAINA MEDICAL FUND ACC. WANGOME",
+    "receipt_id": "QHF19A3Y8H"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-13 05:12:08",
+    "amount": 50.0,
+    "recipient_id": "ACC.",
+    "recipient_name": "2547******644 D1",
+    "receipt_id": "QHD54PH1R1"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-13 04:04:52",
+    "amount": 19.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QHD84P8MPO"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-08-05 07:38:41",
+    "amount": 19.0,
+    "recipient_id": "4093441",
+    "recipient_name": "SAFARICOM DATA BUNDLES ACC. SAFARICOM DATA BUNDLES",
+    "receipt_id": "QH58OK0P6S"
+  },
+  {
+    "category": "Paybill",
+    "completion_time": "2022-06-09 08:43:54",
+    "amount": 300.0,
+    "recipient_id": "ACC.",
+    "recipient_name": "2547******644 W8",
+    "receipt_id": "QF94F7RBZE"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-04 18:38:05",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RF498F52QD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-03 16:36:35",
+    "amount": 510.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RF3156CTTF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-03 12:45:00",
+    "amount": 200.0,
+    "recipient_id": "7224416",
+    "recipient_name": "GLADYS WANGUI A.",
+    "receipt_id": "RF384H99CW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-03 11:26:46",
+    "amount": 370.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RF3849FU2I"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-02 17:27:03",
+    "amount": 355.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RF292B6P7D"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-02 16:53:09",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RF23271IUZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-02 13:23:55",
+    "amount": 410.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RF201L77VI"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-06-01 18:06:05",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RF15YIBMEL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-31 17:36:43",
+    "amount": 415.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REV8VHA6Y0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-30 19:12:35",
+    "amount": 440.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "REU1T0FT8F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-30 19:08:36",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REU4SZRVOY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-30 17:21:31",
+    "amount": 260.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REU0SKLK0Q"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-30 10:44:40",
+    "amount": 185.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REU2RHZ5SA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-29 13:09:00",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RET0P327VM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-29 13:07:32",
+    "amount": 570.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RET7P2X22D"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-28 18:13:21",
+    "amount": 520.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RES5N9T6IP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-28 18:10:08",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RES7N9F0QJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-27 18:19:24",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RER2KLB2GC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-25 17:16:52",
+    "amount": 130.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REP8EMI8P6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-23 19:41:32",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REN49Q3D2G"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-23 19:39:53",
+    "amount": 440.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "REN09PUP4C"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-23 18:39:33",
+    "amount": 260.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REN59GCF67"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-22 15:35:27",
+    "amount": 345.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "REM465H0JC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-21 19:42:56",
+    "amount": 260.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REL04AFWA4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-21 12:28:29",
+    "amount": 800.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "REL230YGP4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-20 19:19:50",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REK81JYXGK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-20 14:57:24",
+    "amount": 80.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REK9ZOA9E7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-20 14:01:23",
+    "amount": 1500.0,
+    "recipient_id": "7581589",
+    "recipient_name": "Elpaso Liquor Store",
+    "receipt_id": "REK6ZIG52K"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-19 15:33:25",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REJ5WWR6VH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-19 09:14:11",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REJ0VY49C0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-19 09:11:57",
+    "amount": 575.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "REJ1VXXO5F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-18 19:06:53",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REI6USTWBQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-18 17:25:54",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REI3UEOFIR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-18 13:09:21",
+    "amount": 280.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "REI2TPS0FK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-17 20:48:20",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REH6SFOJG4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-17 14:42:36",
+    "amount": 58.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "REH2R78ZKU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-17 14:32:37",
+    "amount": 460.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "REH4R6BDIO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-16 18:31:48",
+    "amount": 490.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REG5P5WQO3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-16 18:19:08",
+    "amount": 230.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REG9P45QSV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-16 13:12:21",
+    "amount": 58.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "REG7O8CX23"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-16 13:00:00",
+    "amount": 150.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "REG2O77B4E"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-14 18:43:41",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "REE1JP7SOX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-14 12:03:02",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "REE6IL8R84"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-14 12:00:59",
+    "amount": 530.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "REE5IL30CB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-13 19:29:21",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RED1H60OYF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-12 13:18:27",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "REC4D1YAZ6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-10 13:19:31",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "REA27F4TF2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-09 19:38:29",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE985S5HIA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-09 12:55:53",
+    "amount": 150.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RE904GJ2E0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-08 18:55:21",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE852NOO2F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-08 13:09:20",
+    "amount": 150.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RE871J7ZPP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-07 19:57:42",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE74Z0HBRO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-07 14:49:42",
+    "amount": 720.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "RE70Y0D7F6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-07 10:10:35",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RE74XBZ8UW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-07 10:05:37",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RE74XBK7QM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-06 15:44:21",
+    "amount": 398.0,
+    "recipient_id": "573067",
+    "recipient_name": "NAIVAS LANG'ATA",
+    "receipt_id": "RE65VCP7V9"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-05 18:34:33",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE54SWYDZ2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-05 13:08:30",
+    "amount": 248.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RE51RVFL4N"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-04 13:34:21",
+    "amount": 130.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE40P15J28"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-03 19:08:53",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RE32N7QM86"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-03 19:04:16",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RE38N6ZLOO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-03 13:45:44",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RE36M5ZWIY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-03 10:21:57",
+    "amount": 552.0,
+    "recipient_id": "6101982",
+    "recipient_name": "BORABORA COFFEE HOUSE",
+    "receipt_id": "RE32LMEDRK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-02 19:41:16",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE27KIQ8W3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-02 19:09:25",
+    "amount": 675.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RE27KDTJND"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-02 12:54:53",
+    "amount": 150.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RE26J7U2JY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-01 13:23:18",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RE18GLUBO6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-01 09:46:18",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RE15G256KL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-05-01 09:44:51",
+    "amount": 545.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RE12G20EO6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-29 13:22:38",
+    "amount": 220.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDT2BBCR74"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-29 12:19:40",
+    "amount": 300.0,
+    "recipient_id": "348539",
+    "recipient_name": "HOMEFRONT ENTERTAINMENT 8",
+    "receipt_id": "RDT0B54X66"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-27 20:03:53",
+    "amount": 220.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDR071JHA6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-27 14:21:35",
+    "amount": 280.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RDR55X4EPJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-26 19:30:41",
+    "amount": 700.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RDQ745IET7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-26 19:29:27",
+    "amount": 250.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDQ845B3AA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-26 13:27:11",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDQ930N3XR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-26 13:23:30",
+    "amount": 230.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDQ930A5AV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-25 19:24:22",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDP71H6P49"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-25 13:06:11",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RDP7ZBTLWT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-22 15:54:14",
+    "amount": 370.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDM0S01SLW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-22 15:48:22",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDM9RZHFOL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-21 15:30:59",
+    "amount": 120.0,
+    "recipient_id": "828643",
+    "recipient_name": "AGRIBIZ-HUB",
+    "receipt_id": "RDL7P6FY75"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-20 18:05:37",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDK3MRJ4G5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-20 13:40:07",
+    "amount": 250.0,
+    "recipient_id": "698251",
+    "recipient_name": "JOPAL ENTERPRISES",
+    "receipt_id": "RDK8LYV92G"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-20 13:24:04",
+    "amount": 150.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RDK7LX6SSB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-19 17:24:02",
+    "amount": 700.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RDJ6JRG9P0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-19 15:27:40",
+    "amount": 500.0,
+    "recipient_id": "698251",
+    "recipient_name": "JOPAL ENTERPRISES",
+    "receipt_id": "RDJ4JFJDC6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-18 19:30:16",
+    "amount": 190.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDI6HH6D08"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-17 11:48:50",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDH9DDSQH7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-17 11:44:34",
+    "amount": 300.0,
+    "recipient_id": "348539",
+    "recipient_name": "HOMEFRONT ENTERTAINMENT 8",
+    "receipt_id": "RDH7DDF5KL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-16 14:42:43",
+    "amount": 490.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDG0B83CA6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-15 14:28:09",
+    "amount": 260.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RDF68HPZNS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-15 14:09:30",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RDF18FRI03"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-15 14:03:35",
+    "amount": 490.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RDF48F53S0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-13 19:43:01",
+    "amount": 190.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDD8404WNU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-13 14:02:01",
+    "amount": 500.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RDD52XMQ07"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-13 13:09:53",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RDD82SRVYQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-12 18:13:21",
+    "amount": 120.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RDC0ZY5PNI"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-12 14:05:54",
+    "amount": 250.0,
+    "recipient_id": "6295076",
+    "recipient_name": "SALA PRE PARTITA LIMITED 1",
+    "receipt_id": "RDC6Z9EZHQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-12 12:19:06",
+    "amount": 195.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RDC6YZLQ1O"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-06 19:32:23",
+    "amount": 250.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RD65K6KI9R"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-06 19:28:53",
+    "amount": 120.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RD68K5ZDS2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-05 19:05:43",
+    "amount": 700.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RD56H5I5KG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-05 14:35:53",
+    "amount": 490.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RD55GAAHKH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-05 14:30:35",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RD50G9RXUK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-02 17:16:37",
+    "amount": 490.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RD278FH0BL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-01 16:17:58",
+    "amount": 910.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RD125JDAYQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-01 16:16:38",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RD105J7YCS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-04-01 11:28:40",
+    "amount": 85.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RD164PSQGC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-31 17:25:43",
+    "amount": 130.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCV02SEZWO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-31 17:21:00",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RCV02RUS62"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-31 17:05:42",
+    "amount": 140.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCV22Q2D54"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-31 09:49:48",
+    "amount": 250.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCV61K4P56"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-31 09:47:51",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RCV71JYHF1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-29 14:08:04",
+    "amount": 250.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCT1VVQ6TN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-28 17:28:24",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RCS4TQM2EQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-28 12:17:45",
+    "amount": 240.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCS9SX07V5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-28 12:11:25",
+    "amount": 130.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCS8SWFFLC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-27 19:35:34",
+    "amount": 480.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "RCR8RK1WEE"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-27 12:40:39",
+    "amount": 455.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCR5QDFHOF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-26 19:06:55",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCQ0OXVMYG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-26 14:59:57",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCQ2O8SE4Y"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-25 17:59:23",
+    "amount": 50.0,
+    "recipient_id": "997714",
+    "recipient_name": "DOVEYPHARMA CHEMIST- WESTLANDS",
+    "receipt_id": "RCP7M89K3Z"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-25 15:51:09",
+    "amount": 140.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCP3LUEDUP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-24 18:41:25",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCO9JQ9M71"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-24 12:46:05",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RCO0IPFRSM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-23 13:31:44",
+    "amount": 1011.0,
+    "recipient_id": "866529",
+    "recipient_name": "Goodlife Pharmacy Westlands Square",
+    "receipt_id": "RCN3G7SNVN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-23 12:52:40",
+    "amount": 275.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RCN4G49654"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-22 14:42:33",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCM9DR7TN5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-22 10:48:40",
+    "amount": 60.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCM3D6BW8N"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-22 10:44:42",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RCM5D604QB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-21 14:52:17",
+    "amount": 350.0,
+    "recipient_id": "794591",
+    "recipient_name": "ALL IN ONE RESTAURANT",
+    "receipt_id": "RCL9B65QRJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-20 17:02:00",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RCK88XBRYK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-20 12:55:04",
+    "amount": 350.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RCK58BAAUB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-19 19:51:47",
+    "amount": 200.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCJ76XWTST"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-18 15:40:47",
+    "amount": 80.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCI83IUL4M"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-18 14:25:06",
+    "amount": 1800.0,
+    "recipient_id": "7289347",
+    "recipient_name": "SIMBISA ONLINE",
+    "receipt_id": "RCI53BDE09"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-17 19:46:56",
+    "amount": 960.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "RCH11KRFRB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-17 09:18:56",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RCH0YQO7CM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-16 19:09:13",
+    "amount": 130.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCG3XN8ZO5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-15 18:37:26",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RCF4UT9XZI"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-15 13:05:19",
+    "amount": 270.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "RCF4TVAFHM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-14 13:14:42",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RCE3R7V7NN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-14 13:12:21",
+    "amount": 60.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RCE1R7NH1V"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-13 13:43:14",
+    "amount": 330.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RCD7ONDXDL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-12 14:51:47",
+    "amount": 215.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RCC6M9ED9E"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-09 20:33:30",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RC99F7HA73"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-09 19:20:08",
+    "amount": 850.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RC98EWBP74"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-08 17:48:16",
+    "amount": 1500.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "RC86BTLSB6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-08 17:19:56",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC88BQOAT8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-08 15:33:37",
+    "amount": 500.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RC85BG0GDJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-07 19:56:47",
+    "amount": 190.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC719K5XAJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-07 19:51:04",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RC789JABF4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-07 18:36:30",
+    "amount": 451.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RC7097ZXWE"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-07 14:00:48",
+    "amount": 600.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RC758G8NRD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-07 13:58:01",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RC788FYMHC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-06 19:09:03",
+    "amount": 729.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RC626LG2QQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-06 14:13:05",
+    "amount": 215.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RC605PUNI4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-06 13:12:58",
+    "amount": 60.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RC605JZOUC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-06 13:12:44",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RC605JYOT4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-05 17:48:59",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC513LE0NF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-05 13:46:32",
+    "amount": 200.0,
+    "recipient_id": "544467",
+    "recipient_name": "BOVIS LTD",
+    "receipt_id": "RC582XTS38"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-05 09:25:41",
+    "amount": 729.0,
+    "recipient_id": "137146",
+    "recipient_name": "EASTLEIGH MATTRESSES LIMITED-RIVER ROAD",
+    "receipt_id": "RC552CF9YN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-03 19:40:16",
+    "amount": 140.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC37XI5EPH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-03 19:37:34",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RC35XHPUH3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-03 18:43:45",
+    "amount": 431.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RC35X9FR8X"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-02 19:34:28",
+    "amount": 255.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC22UMYUFG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-02 19:29:08",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RC25UM3393"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-02 19:20:31",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RC26UKOC5K"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-02 14:49:37",
+    "amount": 300.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RC27TQLH4P"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-02 14:46:53",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RC27TQCVGD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-01 18:45:41",
+    "amount": 100.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RC10RNWAU8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-01 18:10:29",
+    "amount": 628.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RC18RJ7V04"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-03-01 12:18:20",
+    "amount": 265.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RC14QL1O6G"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-28 18:00:01",
+    "amount": 20.0,
+    "recipient_id": "7659251",
+    "recipient_name": "EUNICE WAIRIMU",
+    "receipt_id": "RBS5ORMQC9"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-27 19:11:50",
+    "amount": 125.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RBR0MECGOM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-26 16:28:22",
+    "amount": 270.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RBQ4JCHVG4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-23 09:22:08",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBN6ADNKFA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-23 09:18:15",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RBN2ADC15Q"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-21 16:43:49",
+    "amount": 850.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RBL76BL1DP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-21 15:05:01",
+    "amount": 260.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RBL7631FMZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-21 09:24:18",
+    "amount": 170.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RBL55A4OLB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-20 18:57:53",
+    "amount": 100.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBK346SDED"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-20 18:54:09",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RBK246AQR4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-18 18:43:40",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RBI7Y634EB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-18 15:15:41",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBI2XKL92W"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-16 19:08:59",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RBG4SZU3HG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-16 19:05:31",
+    "amount": 330.0,
+    "recipient_id": "348539",
+    "recipient_name": "HOMEFRONT ENTERTAINMENT 8",
+    "receipt_id": "RBG8SZCB3Y"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-16 09:16:05",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RBG5RGPS31"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-15 20:03:06",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RBF7QKR3D3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-15 19:41:29",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RBF9QHIC1F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-15 19:24:23",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBF8QEU7SS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-14 13:16:49",
+    "amount": 300.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RBE5MRG2EJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-13 15:14:40",
+    "amount": 600.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RBD6KFLFA0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-12 20:39:06",
+    "amount": 55.0,
+    "recipient_id": "6035054",
+    "recipient_name": "ANGLO AFRICAN PROPERTY HOLDINGS LTD",
+    "receipt_id": "RBC2IVSNFC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-10 18:48:13",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBA8DB796M"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-10 18:46:24",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RBA7DAYB6D"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-10 14:21:22",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RBA6CKJEBK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-10 14:15:37",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RBA3CK1BA9"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-10 14:09:28",
+    "amount": 350.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RBA0CJGO1S"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-09 19:04:09",
+    "amount": 749.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RB96APT1KG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-09 12:43:48",
+    "amount": 265.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RB969OHDH6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-07 12:57:32",
+    "amount": 1200.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RB704F1L4K"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-06 19:30:10",
+    "amount": 135.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RB602UN6UO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-06 15:49:10",
+    "amount": 180.0,
+    "recipient_id": "232349",
+    "recipient_name": "TINTOLER ODWADU CAFE.. .",
+    "receipt_id": "RB63264RKT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-04 21:26:32",
+    "amount": 500.0,
+    "recipient_id": "641731",
+    "recipient_name": "Corner Pub VIA M-PAYA",
+    "receipt_id": "RB49X1MHZL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-04 15:49:29",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RB48VXPHDO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-03 19:30:53",
+    "amount": 110.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RB36TV7ZNG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-03 19:27:37",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RB39TUPVFJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-03 13:21:33",
+    "amount": 300.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RB35SSBPKD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-03 13:18:08",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RB34SS0AU8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-02 23:09:38",
+    "amount": 240.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RB21RQO3JR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-02-01 13:57:27",
+    "amount": 45.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RB17NKVK2B"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-31 19:39:44",
+    "amount": 420.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RAV8LY2AEW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-30 13:36:45",
+    "amount": 300.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RAU1ID3CBT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-30 13:36:09",
+    "amount": 230.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAU5ID1HND"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-30 10:36:59",
+    "amount": 377.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RAU3HX0INR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-29 17:56:47",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAT4GIV9UK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-29 17:54:30",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAT7GINAUP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-28 18:02:17",
+    "amount": 540.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RAS3E4W2SD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-28 10:06:22",
+    "amount": 740.0,
+    "recipient_id": "342546",
+    "recipient_name": "SPEARS ELECTRICALS AND HARDWARE NRBI",
+    "receipt_id": "RAS4CWOSIU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-27 17:55:40",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAR5BJ6KBX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-27 17:53:36",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAR7BIYBL7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-27 10:29:25",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAR2AF5UJS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-27 10:27:47",
+    "amount": 370.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAR0AF0F46"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-25 18:40:33",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAP26LRY04"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-25 18:37:31",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAP66LESLG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-25 13:13:31",
+    "amount": 265.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RAP85R7T1O"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-23 12:52:22",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAN7ZL6ARX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-23 12:50:32",
+    "amount": 60.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RAN5ZKZTBZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-23 12:49:00",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAN6ZKV7SA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-22 19:09:27",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RAM4Y33YBY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-22 18:54:07",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAM3Y185RN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-22 12:53:17",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAM7X4J1UP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-21 19:52:08",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RAL4VV9CVU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-21 19:47:17",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAL3VULEG1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-21 19:41:58",
+    "amount": 240.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAL8VTUEGS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-21 13:12:14",
+    "amount": 800.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "RAL3UPQ5Q1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-21 13:10:08",
+    "amount": 200.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAL1UPIMKL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-20 13:15:11",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAK9S56FFZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-20 13:14:09",
+    "amount": 370.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAK2S52D5Y"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-19 18:34:13",
+    "amount": 585.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAJ2QEJ2IS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-19 13:51:40",
+    "amount": 500.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RAJ8PO9AKU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-19 13:51:14",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAJ8PO7ZES"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-17 13:04:21",
+    "amount": 60.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "RAH2KJ8E6A"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-17 13:03:00",
+    "amount": 180.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAH2KJ3PJQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-15 17:45:34",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RAF8GCG0QS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-15 17:33:03",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAF8GBCGPS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-14 14:59:37",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RAE0DKL902"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-14 14:47:45",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAE1DJGR3D"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-14 14:40:51",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAE9DIUBE3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-13 17:45:51",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RAD9BHA6D7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-13 10:35:03",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAD4AEZJGA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-13 10:31:08",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAD3AEO59V"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-12 20:21:40",
+    "amount": 410.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RAC09JE1ZW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-12 18:27:54",
+    "amount": 100.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "RAC994XLB1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-12 18:22:28",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAC694C4UM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-12 18:16:11",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RAC293N0SE"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-11 18:59:14",
+    "amount": 79.0,
+    "recipient_id": "7165985",
+    "recipient_name": "Carrefour WGT 07",
+    "receipt_id": "RAB46RXXK0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-11 13:16:59",
+    "amount": 197.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RAB65VBS6A"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-11 12:52:46",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "RAB95T767F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-10 18:57:57",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RAA34B9P4F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-10 18:57:13",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RAA94B5UQX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-10 13:13:21",
+    "amount": 300.0,
+    "recipient_id": "232349",
+    "recipient_name": "TINTOLER ODWADU CAFE.. .",
+    "receipt_id": "RAA83EC2CU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-09 19:01:40",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RA931WK2Y9"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-08 18:50:01",
+    "amount": 200.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA85YGCUDF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-08 18:40:31",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RA88YFBDIM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-08 18:37:20",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RA84YEZTYS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-08 15:44:56",
+    "amount": 360.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA84XZJI1S"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-06 09:28:42",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RA66S65Y4O"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-05 17:32:58",
+    "amount": 2193.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "RA59QVA0CP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-05 13:57:29",
+    "amount": 265.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "RA50QBK8JQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-04 18:01:10",
+    "amount": 335.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RA43OIEQPL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-04 17:58:56",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA41OI5K2H"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-03 19:18:18",
+    "amount": 335.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RA39MCAKRD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-03 19:15:47",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA32MBY4LU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-03 13:13:20",
+    "amount": 310.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA39LCNXUP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-03 12:55:00",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "RA35LB2XHB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-02 15:38:25",
+    "amount": 100.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA27JEC2HN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-02 15:34:36",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RA25JE0SN1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-02 15:28:38",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RA24JDIV2G"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-02 09:18:51",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA21IKCFAL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-02 09:17:03",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "RA20IK7J3I"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-01 19:14:58",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "RA19HSDAID"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-01 19:14:19",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "RA18HSAKRQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2023-01-01 14:50:13",
+    "amount": 400.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "RA11H528DV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-31 16:53:23",
+    "amount": 800.0,
+    "recipient_id": "7640877",
+    "recipient_name": "Sylvia Naiserian Mbuli",
+    "receipt_id": "QLV1ES1QHF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-30 15:30:17",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLU9BZWU3D"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-30 15:20:12",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "QLU9BZ0GOX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-30 15:14:20",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "QLU2BYH1EA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-30 09:40:03",
+    "amount": 440.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLU8B5MVNQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-30 09:27:57",
+    "amount": 500.0,
+    "recipient_id": "6069421",
+    "recipient_name": "JULIUS MBURA    1",
+    "receipt_id": "QLU0B4OLU0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-29 13:09:38",
+    "amount": 380.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLT498ZF66"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-28 18:39:02",
+    "amount": 350.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLS47PSOP0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-28 16:02:21",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "QLS57AR9GB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-28 16:01:37",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "QLS67AORBM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-28 13:03:51",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLS66V7F84"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-27 14:55:41",
+    "amount": 225.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QLR24X3JW6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-27 13:10:57",
+    "amount": 168.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QLR84OQYRS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-23 18:53:29",
+    "amount": 270.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLN8UMH25C"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-23 18:48:21",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "QLN3ULROYR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-23 18:45:00",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "QLN7ULAZB5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-23 11:10:41",
+    "amount": 335.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QLN4T8HXKM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-21 19:49:28",
+    "amount": 150.0,
+    "recipient_id": "628151",
+    "recipient_name": "LA PAZ RESTAURANT LTD",
+    "receipt_id": "QLL5PBQX4L"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-21 19:48:16",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "QLL9PBKWFB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-20 15:11:06",
+    "amount": 370.0,
+    "recipient_id": "512714",
+    "recipient_name": "GUBE MAMO ADO 3",
+    "receipt_id": "QLK1LQKVRL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-20 14:19:46",
+    "amount": 330.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QLK0LLQGO2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-20 13:02:28",
+    "amount": 5000.0,
+    "recipient_id": "311235",
+    "recipient_name": "POA INTERNET",
+    "receipt_id": "QLK4LEAON2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-18 17:18:30",
+    "amount": 555.0,
+    "recipient_id": "433367",
+    "recipient_name": "silmatt supermkt",
+    "receipt_id": "QLI4GXHIA0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-13 13:18:00",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QLD12UPZSV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-13 13:16:59",
+    "amount": 250.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QLD12UMMIH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-12 08:59:10",
+    "amount": 2000.0,
+    "recipient_id": "7260064",
+    "recipient_name": "RUBIS NJIRU",
+    "receipt_id": "QLC3YN6O29"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-11 09:57:02",
+    "amount": 200.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLB5WA4EH3"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-11 09:54:22",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QLB7W9X5B7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-10 12:19:35",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QLA5TXLE6H"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-10 11:55:33",
+    "amount": 405.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QLA4TV9SK2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-09 18:06:36",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL99S43JHX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-09 18:02:40",
+    "amount": 335.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QL94S3JWE8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-09 13:02:06",
+    "amount": 552.0,
+    "recipient_id": "6101982",
+    "recipient_name": "BORABORA COFFEE HOUSE",
+    "receipt_id": "QL90R6M5ZK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-09 12:46:32",
+    "amount": 60.0,
+    "recipient_id": "866529",
+    "recipient_name": "Goodlife Pharmacy Westlands Square",
+    "receipt_id": "QL95R533QV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-08 18:38:07",
+    "amount": 1250.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QL80PC05Z8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-08 13:59:02",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QL84OH52II"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-08 13:54:01",
+    "amount": 750.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QL80OGMR8I"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-07 18:23:26",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL72MC7YZ2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-07 18:21:34",
+    "amount": 880.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QL74MBYTGM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-07 12:56:30",
+    "amount": 265.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QL78LC0GWM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-06 19:35:57",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL60JPBDCA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-06 19:34:10",
+    "amount": 335.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QL66JP1GMI"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-05 19:11:34",
+    "amount": 800.0,
+    "recipient_id": "517716",
+    "recipient_name": "CARREFOUR SRT 14",
+    "receipt_id": "QL53GI9ROT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-05 09:34:26",
+    "amount": 304.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QL59EKWURL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-04 17:05:40",
+    "amount": 130.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL41CT1C7Z"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-04 10:15:13",
+    "amount": 260.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL45BM4R8N"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-04 10:11:31",
+    "amount": 425.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QL49BLR3KH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-03 17:31:32",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QL369MPNL6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-03 11:57:52",
+    "amount": 320.0,
+    "recipient_id": "003677",
+    "recipient_name": "TBC SARIT FLAGSHIP STORE",
+    "receipt_id": "QL388JMR3O"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-03 11:36:15",
+    "amount": 359.0,
+    "recipient_id": "313359",
+    "recipient_name": "AMAYA TECHNOLOGY CO LTD",
+    "receipt_id": "QL308H4RQ8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-02 16:13:16",
+    "amount": 230.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL2662DBG8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-02 09:54:28",
+    "amount": 70.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QL234X4PHZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-02 09:52:38",
+    "amount": 295.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QL274WXXOV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-12-01 14:20:45",
+    "amount": 750.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QL182GT1UK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-30 19:57:55",
+    "amount": 290.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKU7ZMB4Z5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-30 13:32:28",
+    "amount": 552.0,
+    "recipient_id": "6101982",
+    "recipient_name": "BORABORA COFFEE HOUSE",
+    "receipt_id": "QKU1YFRXST"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-30 13:09:15",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QKU2YDPLZY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-29 15:14:52",
+    "amount": 250.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QKT9W9QXQX"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-28 13:31:15",
+    "amount": 250.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QKS6TP0Q1U"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-27 18:44:13",
+    "amount": 175.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QKR7S7C799"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-27 13:38:52",
+    "amount": 360.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKR2RGWT6W"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-27 13:07:03",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QKR3RELOI9"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-26 14:35:35",
+    "amount": 140.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKQ3PB53EZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-26 14:03:57",
+    "amount": 590.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QKQ5P8FSIL"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-26 12:09:41",
+    "amount": 175.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QKQ4OYQ9XS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-26 12:04:18",
+    "amount": 240.0,
+    "recipient_id": "342546",
+    "recipient_name": "SPEARS ELECTRICALS AND HARDWARE NRBI",
+    "receipt_id": "QKQ6OYAAA8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-24 13:48:42",
+    "amount": 430.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QKO8KDS8H2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-24 13:46:50",
+    "amount": 250.0,
+    "recipient_id": "7127496",
+    "recipient_name": "OASIS BREEZE",
+    "receipt_id": "QKO1KDMN4T"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-23 19:07:02",
+    "amount": 340.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKN4IWMH9Q"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-23 18:48:48",
+    "amount": 830.0,
+    "recipient_id": "6009202",
+    "recipient_name": "CRAFTED PIZZA KABETE",
+    "receipt_id": "QKN2IU0WLQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-22 13:29:38",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QKM5FNZC91"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-20 19:37:33",
+    "amount": 270.0,
+    "recipient_id": "729341",
+    "recipient_name": "KABZ FRIES\u2026",
+    "receipt_id": "QKK3C1NAIT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-20 19:34:09",
+    "amount": 380.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKK8C19ME0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-20 08:38:58",
+    "amount": 275.0,
+    "recipient_id": "884651",
+    "recipient_name": "TMGLITZS.",
+    "receipt_id": "QKK2ALU10U"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-11-20 08:35:55",
+    "amount": 175.0,
+    "recipient_id": "7377493",
+    "recipient_name": "Brian Kinyanjui",
+    "receipt_id": "QKK2ALNMI8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-10-12 13:17:14",
+    "amount": 215.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QJC7QL1D1P"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-10-06 13:06:22",
+    "amount": 450.0,
+    "recipient_id": "134995",
+    "recipient_name": "KFC WOODVALE",
+    "receipt_id": "QJ64CRTDMG"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-10-05 13:15:27",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QJ55AEXPYJ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-10-02 12:26:24",
+    "amount": 285.0,
+    "recipient_id": "7270681",
+    "recipient_name": "Jesmir Selfridges",
+    "receipt_id": "QJ283DMRO4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-29 18:37:35",
+    "amount": 943.0,
+    "recipient_id": "515026",
+    "recipient_name": "Naivas West End Plaza",
+    "receipt_id": "QIT3W87UZV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-29 12:59:23",
+    "amount": 199.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QIT5VFC1BP"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-29 12:48:32",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QIT6VEHJPA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-28 12:26:57",
+    "amount": 180.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QIS5T4WFT1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-27 12:28:58",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QIR3QWHFDZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-22 09:33:29",
+    "amount": 725.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QIM0FMZ9KY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-21 13:50:06",
+    "amount": 220.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QIL6E0DOO6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-21 13:02:46",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QIL2DWOBAM"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-17 13:40:49",
+    "amount": 886.0,
+    "recipient_id": "7213209",
+    "recipient_name": "QUICK MART OTC NRB",
+    "receipt_id": "QIH85LD2BQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-14 14:06:31",
+    "amount": 1270.0,
+    "recipient_id": "220432",
+    "recipient_name": "Afritopia Limited",
+    "receipt_id": "QIE2Y2NKNA"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-08 12:46:39",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QI87LC6C0L"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-07 13:40:52",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QI75JCO7I5"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-06 12:42:56",
+    "amount": 170.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QI68H3XZ9Q"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-06 09:29:44",
+    "amount": 290.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QI65GQ796L"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-04 18:30:48",
+    "amount": 220.0,
+    "recipient_id": "7270681",
+    "recipient_name": "Jesmir Selfridges",
+    "receipt_id": "QI46DQTMLK"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-04 14:57:07",
+    "amount": 130.0,
+    "recipient_id": "7853545",
+    "recipient_name": "JOWE MINIMART MIHANGO 1",
+    "receipt_id": "QI44D8V5B6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-04 14:52:40",
+    "amount": 350.0,
+    "recipient_id": "7813901",
+    "recipient_name": "JOHN MWANGI KAMAU",
+    "receipt_id": "QI47D8IK3Z"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-04 14:35:22",
+    "amount": 3000.0,
+    "recipient_id": "775806",
+    "recipient_name": "Linda Medical Centre",
+    "receipt_id": "QI48D781Y0"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-04 10:58:16",
+    "amount": 315.0,
+    "recipient_id": "702326",
+    "recipient_name": "Three In One Self Selection  Kayole Sokoni Stage Nairobi",
+    "receipt_id": "QI40CSVOVO"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-02 13:30:36",
+    "amount": 200.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QI278T4Q1J"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-02 13:28:14",
+    "amount": 489.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QI248SYCKW"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-01 13:36:26",
+    "amount": 180.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QI166OOWLE"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-09-01 13:29:01",
+    "amount": 489.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QI196O4DEN"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-30 13:25:44",
+    "amount": 215.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QHU42HZZX2"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-30 13:14:39",
+    "amount": 120.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QHU72H7UUV"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-29 13:05:49",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QHT9ZGE95F"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-28 10:45:38",
+    "amount": 690.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QHS0XBP5K6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-27 16:30:28",
+    "amount": 350.0,
+    "recipient_id": "7813901",
+    "recipient_name": "JOHN MWANGI KAMAU",
+    "receipt_id": "QHR3W0S86J"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-23 13:08:28",
+    "amount": 100.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QHN7NRR91Z"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-22 14:23:28",
+    "amount": 300.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QHM3M0PHGD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-17 19:01:14",
+    "amount": 1050.0,
+    "recipient_id": "7213209",
+    "recipient_name": "QUICK MART OTC NRB",
+    "receipt_id": "QHH1D49DYD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-10 13:01:36",
+    "amount": 329.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QHA4YYYRH8"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-10 12:57:05",
+    "amount": 200.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QHA5YYOSMD"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-09 12:45:12",
+    "amount": 395.0,
+    "recipient_id": "7270681",
+    "recipient_name": "Jesmir Selfridges",
+    "receipt_id": "QH99XBV4SR"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-08 16:40:52",
+    "amount": 260.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QH86VVN7RC"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-08 16:37:57",
+    "amount": 270.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QH85VVDQKT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-06 13:17:36",
+    "amount": 380.0,
+    "recipient_id": "7195015",
+    "recipient_name": "TOPLINE BITES LIMITED",
+    "receipt_id": "QH65RFF86J"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-03 10:44:33",
+    "amount": 180.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QH32KL6V2C"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-08-02 14:34:40",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QH20IYJJY6"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-30 13:03:22",
+    "amount": 792.0,
+    "recipient_id": "7213209",
+    "recipient_name": "QUICK MART OTC NRB",
+    "receipt_id": "QGU5CK9MQB"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-27 12:25:40",
+    "amount": 150.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QGR66BJ91U"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-21 15:21:49",
+    "amount": 200.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QGL2U2LV8A"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-21 15:17:58",
+    "amount": 303.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QGL4U2C9WY"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-20 13:45:11",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QGK5RY9BCH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-20 13:44:51",
+    "amount": 650.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QGK1RY89SF"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-19 15:21:31",
+    "amount": 250.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QGJ7Q7VCF1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-19 15:17:01",
+    "amount": 300.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QGJ4Q7KEWU"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-19 13:11:08",
+    "amount": 220.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QGJ3PYYJY7"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-18 13:11:51",
+    "amount": 200.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QGI6O0DF5O"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-07-13 13:00:21",
+    "amount": 220.0,
+    "recipient_id": "7784285",
+    "recipient_name": "CAROLINE AKOTH NYANDEGA",
+    "receipt_id": "QGD0E2RGAQ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-22 14:31:13",
+    "amount": 70.0,
+    "recipient_id": "7053095",
+    "recipient_name": "QUICK MART WESTLANDS SQUARE",
+    "receipt_id": "QFM76FVFUZ"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-22 14:19:39",
+    "amount": 290.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QFM56F355V"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-21 14:51:25",
+    "amount": 700.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QFL54J5G15"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-21 14:21:08",
+    "amount": 380.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QFL54H49WT"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-20 15:02:40",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QFK32L7N6J"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-15 13:56:42",
+    "amount": 750.0,
+    "recipient_id": "482144",
+    "recipient_name": "THE BODEGA BAR & RESTAURANT LIMITED",
+    "receipt_id": "QFF6RO4Q7I"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-10 14:07:14",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QFA2HU3KYS"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-08 13:59:42",
+    "amount": 280.0,
+    "recipient_id": "7211481",
+    "recipient_name": "SARAH ADOYO ALWALA 4",
+    "receipt_id": "QF81DSNOVH"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-06 18:12:07",
+    "amount": 55.0,
+    "recipient_id": "7853545",
+    "recipient_name": "JOWE MINIMART MIHANGO 1",
+    "receipt_id": "QF66ABHZJ4"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-06 18:08:42",
+    "amount": 70.0,
+    "recipient_id": "702326",
+    "recipient_name": "Three In One Self Selection  Kayole Sokoni Stage Nairobi",
+    "receipt_id": "QF60AB66OI"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-06 14:38:58",
+    "amount": 180.0,
+    "recipient_id": "7499439",
+    "recipient_name": "TAIRUS MACHARIA MBUTHIA",
+    "receipt_id": "QF679UHSM1"
+  },
+  {
+    "category": "Merchant Payment",
+    "completion_time": "2022-06-06 14:32:47",
+    "amount": 303.0,
+    "recipient_id": "161840",
+    "recipient_name": "SKYMART ENTERPRISES KAYOLE",
+    "receipt_id": "QF609U1P96"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-06-02 14:08:06",
+    "amount": 15330.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RF251PSUIN"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-05-20 16:50:44",
+    "amount": 80.0,
+    "recipient_id": "n/a",
+    "recipient_name": "SILAS NDWIGA",
+    "receipt_id": "REK110864H"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-05-06 14:03:43",
+    "amount": 1028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "RE63V1X549"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-05-05 20:07:16",
+    "amount": 150.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RE51TBUCC7"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-05-03 16:10:53",
+    "amount": 15330.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RE33MKNLRF"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-05-02 09:02:09",
+    "amount": 1000.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RE26IMMFRW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-04-29 12:11:55",
+    "amount": 2528.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RDT6B4DW9W"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-04-28 16:01:00",
+    "amount": 2150.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRIAN PHIRI",
+    "receipt_id": "RDS88XJ58U"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-04-22 13:55:16",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "RDM8ROFFEI"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-04-15 11:49:20",
+    "amount": 1528.0,
+    "recipient_id": "n/a",
+    "recipient_name": "JOE KAROBIAH",
+    "receipt_id": "RDF481W8XW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-04-01 11:42:48",
+    "amount": 15330.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RD134R6ABZ"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-28 09:43:10",
+    "amount": 5000.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RCS0SJ5F1M"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-27 19:37:58",
+    "amount": 90.0,
+    "recipient_id": "n/a",
+    "recipient_name": "SARAH NDUNGU",
+    "receipt_id": "RCR4RKFC3M"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-25 09:30:58",
+    "amount": 5067.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RCP7KVVVQX"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-21 14:46:11",
+    "amount": 150.0,
+    "recipient_id": "n/a",
+    "recipient_name": "JYOTSNA SHAH",
+    "receipt_id": "RCL0B5LK3K"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-20 12:24:43",
+    "amount": 1400.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RCK588MXK9"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-18 18:15:23",
+    "amount": 110.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "RCI6400UES"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-15 17:58:28",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "JANE NJOROGE",
+    "receipt_id": "RCF1UO90IF"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-14 18:13:16",
+    "amount": 650.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CEDRIC MUGO",
+    "receipt_id": "RCE5S0XDWJ"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-13 22:52:19",
+    "amount": 440.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CEDRIC MUGO",
+    "receipt_id": "RCD1Q839TB"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-09 20:05:17",
+    "amount": 110.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRINSON WANJIRU",
+    "receipt_id": "RC94F3IJ0Y"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-05 12:53:43",
+    "amount": 427.0,
+    "recipient_id": "n/a",
+    "recipient_name": "RAHAB TAITHO",
+    "receipt_id": "RC522T7HPC"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-03-02 19:22:09",
+    "amount": 14312.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RC27UKYF03"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-02-11 08:44:17",
+    "amount": 628.0,
+    "recipient_id": "n/a",
+    "recipient_name": "NAFTAL MONGARE",
+    "receipt_id": "RBB5EETT5T"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-02-06 09:19:03",
+    "amount": 1348.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRIAN PHIRI",
+    "receipt_id": "RB6316JBPV"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-02-05 16:31:54",
+    "amount": 200.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CECILIA NGAKU",
+    "receipt_id": "RB58YNC1ZS"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-02-01 20:19:32",
+    "amount": 14312.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RB10OQMOIG"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-28 17:29:16",
+    "amount": 60.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID MWANGI",
+    "receipt_id": "RAS7E1DEPP"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-28 15:09:51",
+    "amount": 550.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "RAS0DO9X5Q"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-26 14:34:17",
+    "amount": 650.0,
+    "recipient_id": "n/a",
+    "recipient_name": "MARRIANE NATASHA",
+    "receipt_id": "RAQ18HWFDB"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-24 14:38:53",
+    "amount": 1028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "NAZARINE NATO",
+    "receipt_id": "RAO63FM9IY"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-21 13:57:56",
+    "amount": 1028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RAL5UU25W1"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-20 17:55:57",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "RAK2SVMDY4"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-17 19:54:17",
+    "amount": 200.0,
+    "recipient_id": "n/a",
+    "recipient_name": "EVERLIN MUSERA",
+    "receipt_id": "RAH0LOEDGM"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-17 16:01:14",
+    "amount": 650.0,
+    "recipient_id": "n/a",
+    "recipient_name": "SHAMIR KHAMIS",
+    "receipt_id": "RAH4KYV7KC"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-17 14:39:02",
+    "amount": 600.0,
+    "recipient_id": "n/a",
+    "recipient_name": "MICHAEL KAMAU",
+    "receipt_id": "RAH7KRR3VT"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-15 15:12:07",
+    "amount": 177.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RAF1FZ3VZ7"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-12 14:31:22",
+    "amount": 600.0,
+    "recipient_id": "n/a",
+    "recipient_name": "KEVIN KITTONY",
+    "receipt_id": "RAC88IVMXQ"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-11 21:27:25",
+    "amount": 400.0,
+    "recipient_id": "n/a",
+    "recipient_name": "KEVIN KITTONY",
+    "receipt_id": "RAB279KDC6"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-09 16:00:42",
+    "amount": 1200.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CAROLINE MATHENGE",
+    "receipt_id": "RA961DZRXM"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-09 13:46:48",
+    "amount": 200.0,
+    "recipient_id": "n/a",
+    "recipient_name": "NICHOLAS MWINZI",
+    "receipt_id": "RA91123M35"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-06 07:48:40",
+    "amount": 14162.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "RA63RZ2QYJ"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-05 17:51:56",
+    "amount": 100.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DENNIS KIMANI",
+    "receipt_id": "RA59QXASKH"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2023-01-04 16:00:46",
+    "amount": 1028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CAROLINE MATHENGE",
+    "receipt_id": "RA40O6EYAW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-31 14:37:52",
+    "amount": 5100.0,
+    "recipient_id": "n/a",
+    "recipient_name": "JAKOB ZIETSCH",
+    "receipt_id": "QLV0EED10S"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-26 19:12:11",
+    "amount": 300.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ISAAC KWOBA",
+    "receipt_id": "QLQ43DZG52"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-24 11:31:47",
+    "amount": 1500.0,
+    "recipient_id": "n/a",
+    "recipient_name": "KEVIN KITTONY",
+    "receipt_id": "QLO2W6YADW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-24 10:28:02",
+    "amount": 1500.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRIAN MUREITHI",
+    "receipt_id": "QLO1W0HYAX"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-22 12:41:24",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "QLM1QQ5KMH"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-20 11:34:52",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRENDA OTIENO",
+    "receipt_id": "QLK7L67OGD"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-18 23:31:05",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "TONYMAX MURIU",
+    "receipt_id": "QLI7HTJCMD"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-10 16:02:11",
+    "amount": 527.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BEATRICE NAIBEI",
+    "receipt_id": "QLA9UJT14L"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-09 18:23:12",
+    "amount": 177.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "QL92S6CO8Y"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-09 18:22:35",
+    "amount": 1428.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRIAN MUREITHI",
+    "receipt_id": "QL98S69CVW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-12-04 14:46:00",
+    "amount": 14162.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "QL45CD873H"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-11-21 19:31:31",
+    "amount": 447.0,
+    "recipient_id": "n/a",
+    "recipient_name": "SARAH NDUNGU",
+    "receipt_id": "QKL5EBCJ6N"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-10-07 15:38:13",
+    "amount": 958.0,
+    "recipient_id": "n/a",
+    "recipient_name": "PAUL SENELWA",
+    "receipt_id": "QJ77FIMNSV"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-10-07 08:50:35",
+    "amount": 608.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID MUTAHI",
+    "receipt_id": "QJ73ELYE4V"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-10-06 14:33:56",
+    "amount": 850.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BRIAN PHIRI",
+    "receipt_id": "QJ65CZ3RZ3"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-10-06 12:08:17",
+    "amount": 14162.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "QJ62CN6DB2"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-10-02 14:08:26",
+    "amount": 50.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "QJ273L9ZDB"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-25 23:24:53",
+    "amount": 1700.0,
+    "recipient_id": "n/a",
+    "recipient_name": "BENJAMIN WAIHENYA",
+    "receipt_id": "QIP0NWH92W"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-25 18:12:38",
+    "amount": 250.0,
+    "recipient_id": "n/a",
+    "recipient_name": "MBOYA LENNOX",
+    "receipt_id": "QIP0N9PZO4"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-25 12:32:47",
+    "amount": 2028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "HAMISI MWATSINGWA",
+    "receipt_id": "QIP7MJTZTN"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-23 13:23:25",
+    "amount": 778.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ALEX WANJIKU",
+    "receipt_id": "QIN1I9EX5H"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-23 06:19:01",
+    "amount": 200.0,
+    "recipient_id": "n/a",
+    "recipient_name": "CHARLES MUTURI",
+    "receipt_id": "QIN9HITNGV"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-21 13:29:18",
+    "amount": 1100.0,
+    "recipient_id": "n/a",
+    "recipient_name": "LILIAN MUTINDA",
+    "receipt_id": "QIL4DYQVZU"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-21 13:13:41",
+    "amount": 350.0,
+    "recipient_id": "n/a",
+    "recipient_name": "GLORIA KIMAILI",
+    "receipt_id": "QIL6DXIL0Q"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-09-17 12:11:09",
+    "amount": 14000.0,
+    "recipient_id": "n/a",
+    "recipient_name": "DAVID NDAMBO",
+    "receipt_id": "QIH05E8PQC"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-08-06 14:39:01",
+    "amount": 7800.0,
+    "recipient_id": "n/a",
+    "recipient_name": "FESTUS KILONZO",
+    "receipt_id": "QH66RLU66G"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-08-06 12:07:52",
+    "amount": 7000.0,
+    "recipient_id": "n/a",
+    "recipient_name": "FESTUS KILONZO",
+    "receipt_id": "QH64RA32FM"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-07-30 12:33:20",
+    "amount": 2100.0,
+    "recipient_id": "n/a",
+    "recipient_name": "LOISE MAINA",
+    "receipt_id": "QGU9CI0US1"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-07-26 13:35:00",
+    "amount": 800.0,
+    "recipient_id": "n/a",
+    "recipient_name": "LOISE MAINA",
+    "receipt_id": "QGQ64HRQFW"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-07-14 13:59:17",
+    "amount": 1270.0,
+    "recipient_id": "n/a",
+    "recipient_name": "JOY BAITHALU",
+    "receipt_id": "QGE2G7A306"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-06-13 12:01:24",
+    "amount": 2028.0,
+    "recipient_id": "n/a",
+    "recipient_name": "ROBERT MWATHI",
+    "receipt_id": "QFD5NH16GR"
+  },
+  {
+    "category": "Send Money",
+    "completion_time": "2022-06-09 19:10:09",
+    "amount": 1000.0,
+    "recipient_id": "n/a",
+    "recipient_name": "MWAGALE MBAZIIRA",
+    "receipt_id": "QF96GICMSA"
+  }
+]
