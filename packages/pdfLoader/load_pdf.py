@@ -68,7 +68,7 @@ class MpesaLoader:
         return sanitized_df.copy()
 
     def initDF(self):
-        pdfPages = self.get_pdf_info().numPages
+        pdfPages = len(self.get_pdf_info().pages)
         for i in range(1, pdfPages+1):
             tables = camelot.read_pdf(
                 self.filePath, password=self.secret, pages='%d' % i)
