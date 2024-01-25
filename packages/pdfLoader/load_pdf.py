@@ -62,7 +62,8 @@ class MpesaLoader:
         table_number = 0
         if page_number == 1:
             table_number = 1
-        print('Page number %d, table number: %d' % (page_number, table_number))
+        print('Page number %d of %d, table number: %d' %
+              (page_number, self.get_pdf_info().getNumPages(), table_number))
         df = tables[table_number].df
         sanitized_df = self.sanitize(df.copy())
         return sanitized_df.copy()
