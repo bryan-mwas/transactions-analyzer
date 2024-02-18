@@ -1,43 +1,59 @@
 import os
-from flask import Flask, render_template, request
-from werkzeug.utils import secure_filename
+from flask import Flask, jsonify, request
+from celery import Celery, Task
 from packages.pdfLoader.load_pdf import MpesaLoader
-from packages.pdfLoader.process_data import TransactionFactory
-import json
-import dataclasses
-import tempfile
+from tasks import extract_data_from_pdf
+from celery.result import AsyncResult
+from werkzeug.utils import secure_filename
+
+
+def celery_init_app(app: Flask) -> Celery:
+    class FlaskTask(Task):
+        def __call__(self, *args: object, **kwargs: object) -> object:
+            with app.app_context():
+                return self.run(*args, **kwargs)
+
+    celery_app = Celery(app.name, task_cls=FlaskTask)
+    celery_app.config_from_object(app.config['CELERY'])
+    celery_app.set_default()
+    app.extensions["celery"] = celery_app
+    return celery_app
 
 
 app = Flask(__name__)
 
+app.config.from_mapping(
+    CELERY=dict(
+        broker_url="amqp://localhost",
+        result_backend="rpc://",
+    )
+)
 
-class EnhancedJSONEncoder(json.JSONEncoder):
-    def default(self, o):
-        if dataclasses.is_dataclass(o):
-            return dataclasses.asdict(o)
-        return super().default(o)
+celery_app = celery_init_app(app)
 
 
-@app.route("/", methods=['POST', "GET"])
+@app.post('/')
 def index():
     if request.method == 'POST':
         f = request.files['file']
         password = request.form['password']
 
-        with tempfile.TemporaryDirectory() as tmpdir:
-            fP = os.path.join(tmpdir,
-                              secure_filename(f.filename))
-            f.save(fP)  # crucial else file won't be read.
-            mpesa_pdf = MpesaLoader(filePath=fP, secret=password)
-            dataFrames = mpesa_pdf.initDF()
-            tFactory = TransactionFactory(dataFrames)
+        fP = os.path.join('/tmp/', secure_filename(f.filename))
+        f.save(fP)
+        result = extract_data_from_pdf.delay(fP, password)
 
-            tFactory.handle_all_charges()
-            tFactory.handle_paybill()
-            tFactory.handle_till()
-            tFactory.handle_send_money()
+        return jsonify({
+            'taskID': result.id
+        })
 
-            result = json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)
 
-            print(result)
-    return render_template('index.html')
+@app.get('/result/<id>')
+def task_result(id: str) -> dict[str, object]:
+    result = AsyncResult(id)
+    if result.ready():
+        return result.result
+    return {
+        "ready": result.ready(),
+        "successful": result.successful(),
+        "value": result.result if result.ready() else None
+    }
