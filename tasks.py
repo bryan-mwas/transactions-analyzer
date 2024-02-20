@@ -20,11 +20,13 @@ class EnhancedJSONEncoder(json.JSONEncoder):
 def extract_data_from_pdf(fP, password):
     mpesa_pdf = MpesaLoader(filePath=fP, secret=password)
     dataFrames = mpesa_pdf.initDF()
-    tFactory = TransactionFactory(dataFrames)
+    print(dataFrames)
+    return {}
+    # tFactory = TransactionFactory(dataFrames)
 
-    tFactory.handle_all_charges()
-    tFactory.handle_paybill()
-    tFactory.handle_till()
-    tFactory.handle_send_money()
+    # tFactory.handle_all_charges()
+    # tFactory.handle_paybill()
+    # tFactory.handle_till()
+    # tFactory.handle_send_money()
 
-    return json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)
+    # return json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)

@@ -46,6 +46,8 @@ def index():
     try:
         if 'file' not in request.files:
             return {'error': "No file uploaded"}, 400
+        if 'password' not in request.form:
+            return {'error': "No password provided"}, 400
 
         uploadedFile = request.files['file']
 
@@ -71,10 +73,19 @@ def index():
 @app.get('/result/<id>')
 def task_result(id: str) -> dict[str, object]:
     result = AsyncResult(id)
+    print(result.status)
     if result.ready() and result.successful():
         return result.result
-    return {
-        "ready": result.ready(),
-        "successful": result.successful(),
-        "value": result.result if result.ready() else None
-    }
+    elif result.ready() and not result.successful():
+        error = result.result
+        return {
+            "ready": result.ready(),
+            "successful": result.successful(),
+            "error": error.args[0]
+        }
+    else:
+        return {
+            "ready": result.ready(),
+            "successful": result.successful(),
+            "value": jsonify(result.result) if result.ready() else None
+        }

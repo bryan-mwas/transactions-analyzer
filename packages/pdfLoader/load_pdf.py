@@ -2,10 +2,11 @@ import camelot
 import pandas as pd
 from PyPDF2 import PdfReader
 from pathlib import Path
+from PyPDF2.errors import FileNotDecryptedError
 
 
 class MpesaLoader:
-    def __init__(self, filePath: Path = 'mpesa.pdf', secret: str = '615856') -> None:
+    def __init__(self, filePath: Path, secret: str) -> None:
         self.filePath = filePath
         self.secret = secret
         self.dataFrames = []
@@ -69,10 +70,21 @@ class MpesaLoader:
         return sanitized_df.copy()
 
     def initDF(self):
-        pdfPages = len(self.get_pdf_info().pages)
-        for i in range(1, pdfPages+1):
-            tables = camelot.read_pdf(
-                self.filePath, password=self.secret, pages='%d' % i)
-            self.dataFrames.append(self.load_data_frame(tables, page_number=i))
+        try:
+            pdfPages = len(self.get_pdf_info().pages)
+            metaData = self.get_pdf_info().metadata
+            author = metaData.get('/Creator')
+            subject = metaData.get('/Subject')
 
-        return pd.concat(self.dataFrames)
+            if author != 'Safaricom PLC' and subject != 'M-PESA Statement':
+                raise Exception('Invalid PDF format')
+
+            for i in range(1, pdfPages+1):
+                tables = camelot.read_pdf(
+                    self.filePath, password=self.secret, pages='%d' % i)
+                self.dataFrames.append(
+                    self.load_data_frame(tables, page_number=i))
+
+            return pd.concat(self.dataFrames)
+        except FileNotDecryptedError:  # Catch a specific error
+            raise Exception('You have entered an invalid password')
