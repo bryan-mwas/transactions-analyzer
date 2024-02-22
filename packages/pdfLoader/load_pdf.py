@@ -59,17 +59,20 @@ class MpesaLoader:
 
         return dataframe
 
-    def load_data_frame(self, tables, page_number):
+    def load_data_frame(self, tables, page_number, task):
         table_number = 0
         if page_number == 1:
             table_number = 1
         print('Page number %d of %d, table number: %d' %
               (page_number, self.get_pdf_info().getNumPages(), table_number))
+        if task is not None:
+            task.update_state(state='PROGRESS', meta={
+                'done': page_number, 'total': self.get_pdf_info().getNumPages()})
         df = tables[table_number].df
         sanitized_df = self.sanitize(df.copy())
         return sanitized_df.copy()
 
-    def initDF(self):
+    def initDF(self, task):
         try:
             pdfPages = len(self.get_pdf_info().pages)
             metaData = self.get_pdf_info().metadata
@@ -83,7 +86,7 @@ class MpesaLoader:
                 tables = camelot.read_pdf(
                     self.filePath, password=self.secret, pages='%d' % i)
                 self.dataFrames.append(
-                    self.load_data_frame(tables, page_number=i))
+                    self.load_data_frame(tables, page_number=i, task=task))
 
             return pd.concat(self.dataFrames)
         except FileNotDecryptedError:  # Catch a specific error

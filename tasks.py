@@ -16,17 +16,15 @@ class EnhancedJSONEncoder(json.JSONEncoder):
         return super().default(o)
 
 
-@shared_task()
-def extract_data_from_pdf(fP, password):
+@shared_task(bind=True)
+def extract_data_from_pdf(self, fP, password):
     mpesa_pdf = MpesaLoader(filePath=fP, secret=password)
-    dataFrames = mpesa_pdf.initDF()
-    print(dataFrames)
-    return {}
-    # tFactory = TransactionFactory(dataFrames)
+    dataFrames = mpesa_pdf.initDF(task=self)
+    tFactory = TransactionFactory(dataFrames)
 
-    # tFactory.handle_all_charges()
-    # tFactory.handle_paybill()
-    # tFactory.handle_till()
-    # tFactory.handle_send_money()
+    tFactory.handle_all_charges()
+    tFactory.handle_paybill()
+    tFactory.handle_till()
+    tFactory.handle_send_money()
 
-    # return json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)
+    return json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)

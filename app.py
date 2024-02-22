@@ -84,8 +84,8 @@ def task_result(id: str) -> dict[str, object]:
             "error": error.args[0]
         }
     else:
-        return {
-            "ready": result.ready(),
-            "successful": result.successful(),
-            "value": jsonify(result.result) if result.ready() else None
-        }
+        print(result.info)
+        return jsonify({
+            "state": result.state,
+            "info": result.info,
+        })
