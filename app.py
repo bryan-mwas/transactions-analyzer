@@ -1,3 +1,4 @@
+import json
 import os
 from flask import Flask, jsonify, request
 from celery import Celery, Task
@@ -5,6 +6,7 @@ from werkzeug.exceptions import RequestEntityTooLarge
 from tasks import extract_data_from_pdf
 from celery.result import AsyncResult
 from werkzeug.utils import secure_filename
+from flask_cors import CORS
 
 ALLOWED_EXTENSIONS = {'pdf'}
 
@@ -28,11 +30,12 @@ def celery_init_app(app: Flask) -> Celery:
 
 
 app = Flask(__name__)
+CORS(app)
 
 app.config.from_mapping(
     CELERY=dict(
         broker_url="amqp://localhost",
-        result_backend="rpc://",
+        result_backend="redis://localhost:6379/0",
     )
 )
 
@@ -73,9 +76,13 @@ def index():
 @app.get('/result/<id>')
 def task_result(id: str) -> dict[str, object]:
     result = AsyncResult(id)
-    print(result.status)
     if result.ready() and result.successful():
-        return result.result
+        return {
+            'state': result.state,
+            'ready': result.ready(),
+            'successful': result.successful(),
+            'data': result.result
+        }
     elif result.ready() and not result.successful():
         error = result.result
         return {
@@ -87,5 +94,7 @@ def task_result(id: str) -> dict[str, object]:
         print(result.info)
         return jsonify({
             "state": result.state,
+            "ready": result.ready(),
+            "successful": result.successful(),
             "info": result.info,
         })
