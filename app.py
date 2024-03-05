@@ -1,4 +1,3 @@
-import json
 import os
 from flask import Flask, jsonify, request
 from celery import Celery, Task
@@ -35,7 +34,7 @@ CORS(app)
 app.config.from_mapping(
     CELERY=dict(
         broker_url="amqp://localhost",
-        result_backend="redis://localhost:6379/0",
+        result_backend="rpc://",
     )
 )
 
@@ -77,12 +76,12 @@ def index():
 def task_result(id: str) -> dict[str, object]:
     result = AsyncResult(id)
     if result.ready() and result.successful():
-        return {
+        return jsonify({
             'state': result.state,
             'ready': result.ready(),
             'successful': result.successful(),
             'data': result.result
-        }
+        })
     elif result.ready() and not result.successful():
         error = result.result
         return {
