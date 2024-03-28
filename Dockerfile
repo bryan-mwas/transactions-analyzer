@@ -40,7 +40,8 @@ RUN python -m pip install --upgrade pip
 
 RUN --mount=type=cache,target=/root/.cache/pip \
     --mount=type=bind,source=requirements.txt,target=requirements.txt \
-    python -m pip install -r requirements.txt
+    python -m pip install -r requirements.txt \
+    pip install gunicorn 
 
 # Switch to the non-privileged user to run the application.
 USER appuser
@@ -52,4 +53,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the application.
-CMD flask run --debug
+CMD gunicorn --bind 0.0.0.0:5000 -w 4 app:app 

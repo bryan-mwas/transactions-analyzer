@@ -29,6 +29,7 @@ def celery_init_app(app: Flask) -> Celery:
 
 
 app = Flask(__name__)
+
 CORS(app)
 
 app.config.from_mapping(
