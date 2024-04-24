@@ -34,12 +34,14 @@ CORS(app)
 
 app.config.from_mapping(
     CELERY=dict(
-        broker_url="amqp://localhost",
+        broker_url="amqp://rabbitmq",
         result_backend="rpc://",
     )
 )
 
 app.config['MAX_CONTENT_LENGTH'] = 1.5 * 1000 * 1000  # 1.5 Megabytes
+UPLOAD_FOLDER = os.getcwd()+"/uploads"
+app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 celery_app = celery_init_app(app)
 
@@ -60,7 +62,9 @@ def index():
         if uploadedFile and allowed_file(uploadedFile.filename):
             password = request.form['password']
 
-            fP = os.path.join('/tmp/', secure_filename(uploadedFile.filename))
+            fP = os.path.join(
+                app.config['UPLOAD_FOLDER'], secure_filename(uploadedFile.filename))
+            print(os.listdir(os.getcwd() + "/uploads"))
             uploadedFile.save(fP)
             result = extract_data_from_pdf.delay(fP, password)
 

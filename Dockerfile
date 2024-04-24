@@ -43,6 +43,8 @@ RUN --mount=type=cache,target=/root/.cache/pip \
     python -m pip install -r requirements.txt \
     pip install gunicorn 
 
+RUN mkdir uploads
+
 # Switch to the non-privileged user to run the application.
 USER appuser
 
