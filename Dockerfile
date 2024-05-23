@@ -55,4 +55,4 @@ COPY . .
 EXPOSE 5000
 
 # Run the application.
-CMD gunicorn --bind 0.0.0.0:5000 -w 4 app:app 
+CMD ./start_ps.sh

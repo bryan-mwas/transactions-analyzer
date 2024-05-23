@@ -35,7 +35,7 @@ CORS(app)
 app.config.from_mapping(
     CELERY=dict(
         broker_url="amqp://rabbitmq",
-        result_backend="rpc://",
+        result_backend="redis://redis",
     )
 )
 
@@ -64,7 +64,6 @@ def index():
 
             fP = os.path.join(
                 app.config['UPLOAD_FOLDER'], secure_filename(uploadedFile.filename))
-            print(os.listdir(os.getcwd() + "/uploads"))
             uploadedFile.save(fP)
             result = extract_data_from_pdf.delay(fP, password)
 
@@ -80,25 +79,10 @@ def index():
 @app.get('/result/<id>')
 def task_result(id: str) -> dict[str, object]:
     result = AsyncResult(id)
-    if result.ready() and result.successful():
-        return jsonify({
-            'state': result.state,
-            'ready': result.ready(),
-            'successful': result.successful(),
-            'data': result.result
-        })
-    elif result.ready() and not result.successful():
-        error = result.result
-        return {
-            "ready": result.ready(),
-            "successful": result.successful(),
-            "error": error.args[0]
-        }
-    else:
-        print(result.info)
-        return jsonify({
-            "state": result.state,
-            "ready": result.ready(),
-            "successful": result.successful(),
-            "info": result.info,
-        })
+    return jsonify({
+        'state': result.state,
+        'ready': result.ready(),
+        'successful': result.successful(),
+        'failed': result.failed(),
+        'result': result.info,
+    })

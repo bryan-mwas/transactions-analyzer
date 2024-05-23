@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   flask_app:
     build:
@@ -8,22 +6,7 @@ services:
       - "5000:5000"
     depends_on:
       - rabbitmq
-    volumes:
-      - /tmp:/app/uploads
-    # volumes:
-    #   # Workaround for ignored shm_size in swarm:
-    #   - type: tmpfs
-    #     target: /flask_app/uploads
-    #     tmpfs:
-    #       size: 536870912 # 512M max ; defaults to 64M ; relative to total work_mem?
-
-  celery_worker:
-    build:
-      context: .
-    entrypoint: celery
-    command: -A app.celery_app worker -l INFO
-    depends_on:
-      - flask_app
+      - redis
     volumes:
       - /tmp:/app/uploads
 
@@ -31,3 +14,6 @@ services:
     image: rabbitmq:3.8
     ports:
       - "5672:5672"
+
+  redis:
+    image: redis:7-alpine

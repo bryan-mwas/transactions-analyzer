@@ -36,6 +36,7 @@ werkzeug = "==3.0.1"
 zipp = "==3.17.0"
 celery = "==5.3.6"
 flask-cors = "*"
+redis = "*"
 
 [dev-packages]
 

@@ -22,5 +22,3 @@ if __name__ == "__main__":
     tFactory.handle_send_money()
 
     result = json.dumps(tFactory.transactions, cls=EnhancedJSONEncoder)
-
-    print(result)
