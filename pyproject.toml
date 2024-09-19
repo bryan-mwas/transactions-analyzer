@@ -50,6 +50,8 @@ wand = "0.6.10"
 wcwidth = "0.2.13"
 werkzeug = "3.0.1"
 zipp = "3.17.0"
+load-dotenv = "^0.1.0"
+gunicorn = "^23.0.0"
 
 
 [build-system]

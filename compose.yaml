@@ -5,15 +5,8 @@ services:
     ports:
       - "5000:5000"
     depends_on:
-      - rabbitmq
       - redis
-    volumes:
-      - /tmp:/app/uploads
-
-  rabbitmq:
-    image: rabbitmq:3.8
-    ports:
-      - "5672:5672"
+    env_file: "web.env"
 
   redis:
     image: redis:7-alpine

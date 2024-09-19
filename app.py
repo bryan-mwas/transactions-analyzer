@@ -5,7 +5,9 @@ from werkzeug.exceptions import RequestEntityTooLarge
 from tasks import extract_data_from_pdf
 from celery.result import AsyncResult
 from flask_cors import CORS
-from tempfile import NamedTemporaryFile
+from dotenv import load_dotenv
+
+load_dotenv()
 
 ALLOWED_EXTENSIONS = {'pdf'}
 
@@ -34,8 +36,8 @@ CORS(app)
 
 app.config.from_mapping(
     CELERY=dict(
-        broker_url="redis://localhost:6379/0",
-        result_backend="redis://localhost:6379/0",
+        broker_url=os.getenv('REDIS_HOST'),
+        result_backend=os.getenv('REDIS_HOST'),
         broker_connection_retry_on_startup=True
     )
 )
@@ -63,15 +65,11 @@ def index():
         if uploadedFile and allowed_file(uploadedFile.filename):
             password = request.form['password']
 
-            with NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_pdf:
-                tmp_pdf.write(uploadedFile.read())
-                tmp_pdf.flush()
-                tmp_file_path = tmp_pdf.name
-                result = extract_data_from_pdf.delay(tmp_file_path, password)
+            result = extract_data_from_pdf.delay(uploadedFile.read(), password)
 
-                return jsonify({
-                    'taskID': result.id
-                }), 202
+            return jsonify({
+                'taskID': result.id
+            }), 202
         else:
             return {'error': 'Invalid file type'}, 400
     except RequestEntityTooLarge:

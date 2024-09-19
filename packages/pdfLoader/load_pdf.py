@@ -3,6 +3,7 @@ import pandas as pd
 from PyPDF2 import PdfReader
 from pathlib import Path
 from PyPDF2.errors import FileNotDecryptedError
+from celery import Task
 
 
 class MpesaLoader:
@@ -59,7 +60,7 @@ class MpesaLoader:
 
         return dataframe
 
-    def load_data_frame(self, tables, page_number, task):
+    def load_data_frame(self, tables, page_number, task: Task):
         table_number = 0
         if page_number == 1:
             table_number = 1
@@ -72,7 +73,7 @@ class MpesaLoader:
         sanitized_df = self.sanitize(df.copy())
         return sanitized_df.copy()
 
-    def initDF(self, task):
+    def initDF(self, task: Task):
         try:
             pdfPages = len(self.get_pdf_info().pages)
             metaData = self.get_pdf_info().metadata
