@@ -4,9 +4,8 @@ from celery import Celery, Task
 from werkzeug.exceptions import RequestEntityTooLarge
 from tasks import extract_data_from_pdf
 from celery.result import AsyncResult
-from werkzeug.utils import secure_filename
 from flask_cors import CORS
-from tempfile import TemporaryDirectory
+from tempfile import NamedTemporaryFile
 
 ALLOWED_EXTENSIONS = {'pdf'}
 
@@ -63,18 +62,16 @@ def index():
 
         if uploadedFile and allowed_file(uploadedFile.filename):
             password = request.form['password']
-            
-            with TemporaryDirectory() as tmp_dir:
-                print(f'Created directory {tmp_dir}')
 
-            fP = os.path.join(
-                app.config['UPLOAD_FOLDER'], secure_filename(uploadedFile.filename))
-            uploadedFile.save(fP)
-            result = extract_data_from_pdf.delay(fP, password)
+            with NamedTemporaryFile(delete=False, suffix=".pdf") as tmp_pdf:
+                tmp_pdf.write(uploadedFile.read())
+                tmp_pdf.flush()
+                tmp_file_path = tmp_pdf.name
+                result = extract_data_from_pdf.delay(tmp_file_path, password)
 
-            return jsonify({
-                'taskID': result.id
-            }), 202
+                return jsonify({
+                    'taskID': result.id
+                }), 202
         else:
             return {'error': 'Invalid file type'}, 400
     except RequestEntityTooLarge:
@@ -89,5 +86,5 @@ def task_result(id: str) -> dict[str, object]:
         'ready': result.ready(),
         'successful': result.successful(),
         'failed': result.failed(),
-        'result': result.info,
+        'response': str(result.info) if isinstance(result.info, Exception) else result.info,
     })
