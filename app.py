@@ -6,6 +6,7 @@ from tasks import extract_data_from_pdf
 from celery.result import AsyncResult
 from werkzeug.utils import secure_filename
 from flask_cors import CORS
+from tempfile import TemporaryDirectory
 
 ALLOWED_EXTENSIONS = {'pdf'}
 
@@ -34,8 +35,9 @@ CORS(app)
 
 app.config.from_mapping(
     CELERY=dict(
-        broker_url="amqp://rabbitmq",
-        result_backend="redis://redis",
+        broker_url="redis://localhost:6379/0",
+        result_backend="redis://localhost:6379/0",
+        broker_connection_retry_on_startup=True
     )
 )
 
@@ -61,7 +63,6 @@ def index():
 
         if uploadedFile and allowed_file(uploadedFile.filename):
             password = request.form['password']
-
             fP = os.path.join(
                 app.config['UPLOAD_FOLDER'], secure_filename(uploadedFile.filename))
             uploadedFile.save(fP)
