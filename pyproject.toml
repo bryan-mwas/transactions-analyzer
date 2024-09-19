@@ -1,8 +1,8 @@
 [tool.poetry]
 name = "transactions-analyzer"
 version = "0.1.0"
-description = "Mpesa Statement PDF analyzer"
-authors = ["Brian <mwathibrian7@gmail.com>"]
+description = ""
+authors = ["Mwathi <mwathibrian7@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

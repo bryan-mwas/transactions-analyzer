@@ -63,6 +63,10 @@ def index():
 
         if uploadedFile and allowed_file(uploadedFile.filename):
             password = request.form['password']
+            
+            with TemporaryDirectory() as tmp_dir:
+                print(f'Created directory {tmp_dir}')
+
             fP = os.path.join(
                 app.config['UPLOAD_FOLDER'], secure_filename(uploadedFile.filename))
             uploadedFile.save(fP)
