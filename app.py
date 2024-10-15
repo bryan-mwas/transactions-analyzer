@@ -36,8 +36,10 @@ CORS(app)
 
 app.config.from_mapping(
     CELERY=dict(
-        broker_url=os.getenv('REDIS_HOST'),
-        result_backend=os.getenv('REDIS_HOST'),
+        broker_url=os.getenv('REDIS_HOST') if os.getenv(
+            'REDIS_HOST') else 'redis://redis:6379/0',
+        result_backend=os.getenv('REDIS_HOST') if os.getenv(
+            'REDIS_HOST') else 'redis://redis:6379/0',
         broker_connection_retry_on_startup=True
     )
 )
